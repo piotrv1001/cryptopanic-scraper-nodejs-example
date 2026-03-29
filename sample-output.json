@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Bitcoin retreats below $100,000, causing $850 million in crypto liquidations over past day",
+    "date": "4w",
+    "coins": ["BTC"],
+    "votes": [
+      "5 positive votes",
+      "2 important votes",
+      "1 comments votes",
+      "2 like votes",
+      "1 lol votes"
+    ],
+    "source": "theblock.co"
+  },
+  {
+    "title": "Trump-Backed World Liberty Financial Acquires $12M in ETH, LINK, AAVE",
+    "date": "3mon",
+    "coins": ["ETH", "USDC", "LINK"],
+    "votes": [
+      "4 positive votes",
+      "3 negative votes",
+      "2 important votes",
+      "5 lol votes",
+      "4 like votes",
+      "3 dislike votes"
+    ],
+    "source": "daily.shib.io"
+  },
+  {
+    "title": "Ethereum Foundation Announces Major Protocol Upgrade Roadmap for 2025",
+    "date": "2d",
+    "coins": ["ETH"],
+    "votes": [
+      "12 positive votes",
+      "7 important votes",
+      "3 comments votes",
+      "8 like votes"
+    ],
+    "source": "ethereum.org"
+  }
+]
