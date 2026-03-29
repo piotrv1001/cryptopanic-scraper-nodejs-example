@@ -2,6 +2,8 @@
 
 This example shows how to scrape CryptoPanic news using a pre-built [Apify actor](https://apify.com/piotrv1001/cryptopanic-news-scraper) — no scraper setup required. Just call the actor via the Apify API and get structured crypto news data back in seconds.
 
+![CryptoPanic scraper results](./cryptopanic_results.png)
+
 ## What this example does
 
 - Calls the `piotrv1001/cryptopanic-news-scraper` Apify actor
